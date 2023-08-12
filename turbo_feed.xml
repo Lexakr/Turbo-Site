@@ -4,11 +4,17 @@
      xmlns:turbo="http://turbo.yandex.ru"
      version="2.0">
     <channel>
+        <!-- Информация о сайте-источнике -->
+        <title>Канал</title>
+        <link>https://lexakr.github.io/turbo_feed.xml</link>
+        <description>Краткое описание канала</description>
         <item turbo="true">
+            <!-- Информация о странице -->
             <link>https://lexakr.github.io/page.html</link>
+            <yandex:related></yandex:related>
             <turbo:content>
                 <![CDATA[
-                    <!-- Содержимое страницы --> 
+                    <!-- Содержимое 1 страницы -->
 					<header>
 						<h1>Тайтл</h1>
 						<h2>Заголовочек 1</h2>
