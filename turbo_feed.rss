@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:yandex="http://news.yandex.ru"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:turbo="http://turbo.yandex.ru"
+     version="2.0">
+    <channel>
+        <item turbo="true">
+            <link>https://lexakr.github.io/page.html</link>
+            <turbo:content>
+                <![CDATA[
+                    <!-- Содержимое страницы --> 
+					<!doctype html>
+					<html lang="ru">
+					<head>
+					<meta charset="utf-8" />
+					<title>Тайтл</title>
+					<link rel="stylesheet" href="style.css" />
+					</head>
+					<body>
+							<h1>Заголовочек 1</h1>
+					</body>
+					</html>
+                ]]>
+            </turbo:content>
+        </item>
+    </channel>
+</rss>
