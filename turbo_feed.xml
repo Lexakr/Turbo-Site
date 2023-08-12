@@ -9,17 +9,10 @@
             <turbo:content>
                 <![CDATA[
                     <!-- Содержимое страницы --> 
-					<!doctype html>
-					<html lang="ru">
-					<head>
-					<meta charset="utf-8" />
-					<title>Тайтл</title>
-					<link rel="stylesheet" href="style.css" />
-					</head>
-					<body>
-							<h1>Заголовочек 1</h1>
-					</body>
-					</html>
+					<header>
+						<h1>Тайтл</h1>
+						<h2>Заголовочек 1</h2>
+					</header>
                 ]]>
             </turbo:content>
         </item>
