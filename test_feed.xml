@@ -14,11 +14,11 @@
             <yandex:related></yandex:related>
             <turbo:content>
                 <![CDATA[
-                    <!-- Содержимое 1 страницы -->
-                    <header>
+					<!-- Содержимое страницы --> 
+					<header>
 						<h1>Тайтл</h1>
-                    </header>
-					<p>Заголовочек 1</p>
+						<h2>Заголовочек 1</h2>
+					</header>
                 ]]>
             </turbo:content>
         </item>
