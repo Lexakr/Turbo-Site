@@ -8,7 +8,7 @@
         <title>Канал</title>
         <link>https://lexakr.github.io/turbo_feed.xml</link>
         <description>Краткое описание канала</description>
-        <item turbo="true">
+        <item turbo="false">
             <!-- Информация о странице -->
             <link>https://lexakr.github.io/page.html</link>
             <yandex:related></yandex:related>
